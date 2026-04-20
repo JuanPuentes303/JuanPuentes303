@@ -23,8 +23,6 @@ Me caracterizo por el trabajo en equipo, la organización y la gestión de proye
 
 ## 📌 Proyectos destacados
 
-Aquí puedes mostrar tus mejores repositorios:
-
 - [parcial1-Juan-Puentes](https://github.com/JuanPuentes303/parcial1-Juan-Puentes)
   - Parcial de programacion web
 
