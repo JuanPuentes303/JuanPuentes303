@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan David Puentes Valencia
 
-💻 Ingeniero de Software Full-Stack  
+Estudiante de Ingeniería de Software | Full Stack Developer 
 📍 Neiva, Colombia  
 📧 jdpv.0683@gmail.com  
 🌐 [GitHub](https://github.com/JuanPuentes303)
@@ -14,12 +14,7 @@ Me caracterizo por el trabajo en equipo, la organización y la gestión de proye
 
 ## 🛠️ Tecnologías e intereses
 
-- Frontend
-- Backend
-- Desarrollo Full-Stack
-- Gestión de proyectos
-- Trabajo en equipo
-- Git y GitHub
+Java | Spring Boot | JavaScript | React | Node.js | Kotlin | Python | MySQL | HTML | CSS | Git | GitHub
 
 ## 📌 Proyectos destacados
 
@@ -38,7 +33,7 @@ Me caracterizo por el trabajo en equipo, la organización y la gestión de proye
 ## 🌍 Idiomas
 
 - Español: Nativo
-- Inglés: B1/B2
+- Inglés: B2
 
 ## 📫 Contacto
 
