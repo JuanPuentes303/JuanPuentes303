@@ -18,8 +18,8 @@ Java | Spring Boot | JavaScript | React | Node.js | Kotlin | Python | MySQL | HT
 
 ## 📌 Proyectos destacados
 
-- [parcial1-Juan-Puentes](https://github.com/JuanPuentes303/parcial1-Juan-Puentes)
-  - Parcial de programacion web
+- [NIX_](https://github.com/JuanPuentes303/Nix_)
+  - NIX_
 
 - [Pagina_Disfraces](https://github.com/JuanPuentes303/pagina_disfraces)
   - Proyecto para una pagina de venta y aluquiler de disfraces
